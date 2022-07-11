@@ -1,9 +1,4 @@
 # Surge-QuantumultX-Shadowrocket
-<p align="center">
-  <samp>
-    <img src="https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/Pikachu.gif" width="240px" align="center">
-  </samp>
-</p>
 ### 本仓库之中所有配置或脚本等纯属自用备份
 # 免责声明
 - 本仓库中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
@@ -19,3 +14,9 @@
 - 您必须在下载后的24小时内从计算机或手机中完全删除以上内容。
 
 - 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。HuaWeixiang 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何本仓库相关脚本或其他内容，则视为您已接受此免责声明。
+
+<p align="center">
+  <samp>
+    <img src="https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/Pikachu.gif" width="240px" align="center">
+  </samp>
+</p>
