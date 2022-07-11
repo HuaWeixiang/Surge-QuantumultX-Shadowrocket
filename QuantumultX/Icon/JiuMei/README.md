@@ -3,4 +3,7 @@
 https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/QuantumultX/Icon/JiuMei/JiuMei.json
 ```
 
-![quanx](https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/QuantumultX/Icon/JiuMei/IMG_4536.JPG "quanx")
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/QuantumultX/Icon/JiuMei/IMG_4536.JPG" align="center">
+  <br><br>
+</p>
