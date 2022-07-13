@@ -28,7 +28,7 @@ SurgePro = type=generic,timeout=3,script-path=https://raw.githubusercontent.com/
 # > 节点IP信息
 IP-Check = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/Surge/Panel/Scripts/IP-Check.js,argument=title=节点信息&icon=paperplane.fill&color=#ff6600
 # > 流量统计,点击以切换网络界面
-TrafficStatistics = type=generic,timeout=3,script-path= https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/Surge/Panel/Scripts/TrafficStatistics.js,argument=title=流量统计&icon=barometer.system&color=#ff0000
+TrafficStatistics = type=generic,timeout=3,script-path= https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/Surge/Panel/Scripts/TrafficStatistics.js,argument=title=流量统计&icon=speedometer&color=#ff0000
 # > 配置重载
 # ReloadProfiles = type=generic,timeout=3,script-path=https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/Surge/Panel/Scripts/ReloadProfiles.js,argument=title=配置重载&icon=pencil.and.outline&color=#ff0099
 # > 刷新DNS
@@ -36,7 +36,7 @@ FlushDNS = type=generic,timeout=3,script-path=https://raw.githubusercontent.com/
 # > 流媒体解锁检测
 Stream-All = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/Surge/Panel/Scripts/Stream-All.js,argument=title=流媒体解锁检测&icon=play.tv.fill&color=#cc00ff
 # > 节假日信息
-# Timecard = type=generic,timeout=3,script-path=https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/Surge/Panel/Scripts/Timecard/Timecard.js
+# Timecard = type=generic,timeout=3,script-path=https://raw.githubusercontent.com/HuaWeixiang/Surge-QuantumultX-Shadowrocket/master/Surge/Panel/Scripts/Timecard.js
 
 [Host]
 ip-api.com = 208.95.112.1
