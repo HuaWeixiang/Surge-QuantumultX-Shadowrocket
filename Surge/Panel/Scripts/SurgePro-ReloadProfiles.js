@@ -15,7 +15,7 @@
   let panel = {
     title:"Surge Pro® to 2023-06-30",
     content:`启动时长: ${startTime}\n`+"——————————————————Mitm:"+icon_status(mitm_status.enabled)+"  Rewrite:"+icon_status(rewrite_status.enabled)+"  Scripting:"+icon_status(scripting_status.enabled),
-    icon: icon_s?'paperplane.circle':'exclamationmark.triangle',
+    icon: icon_s?'paperplane.circle':'exclamationmark.triangle.fill',
     'icon-color': icon_s?'#f6c970':'#f20c00',
   }
   if (typeof $argument != "undefined") {
